@@ -4,7 +4,7 @@ import Crunchy_Bites from "../../assets/zimba_crunchy_bites.png";
 import Magic_masala from "../../assets/zimba_magic_masala.png"
 import Mast_masala from "../../assets/zimba_mast_masala.png"
 import Instant_Chowmein from "../../assets/zimba_nowChow.png"
-import Chicken_ready_to_eat from "../../assets/Zimba_ready_to_eat.png"
+import Chicken_ready_to_eat from "../../assets/Zimba_Ready_to_eat.png"
 import Tasty_masala from "../../assets/zimba_tasty_Masala.png"
 import Product_Card from "../product_card";
 
