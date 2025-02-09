@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+    --font-Lexend: "Lexend Mega","serif";
+    --font-serial:"Montserrat", 'serif';
+    --color-bluish:#67ffca;
+}
